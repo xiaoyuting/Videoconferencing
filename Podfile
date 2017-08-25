@@ -9,6 +9,5 @@ pod 'YYModel'
 pod 'YTKKeyValueStore'
 pod 'XHLaunchAd'
 pod 'NIMSDK'
-pod 'NIMSDK_LITE'
 end 
 
