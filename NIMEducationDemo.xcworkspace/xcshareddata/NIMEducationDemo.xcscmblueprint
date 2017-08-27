@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FFEF9F5BFA6676D6938C6FA00316030C6F649FF4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FFEF9F5BFA6676D6938C6FA00316030C6F649FF4" : 9223372036854775807,
+    "5DA897B2CF6787DA5F7A57996317E5269E088741" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "28CD2051-0D2F-48C4-9EB7-C65CD263C953",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FFEF9F5BFA6676D6938C6FA00316030C6F649FF4" : "NIM\/",
+    "5DA897B2CF6787DA5F7A57996317E5269E088741" : "NIM\/NIMAVChat\/NIMAVChat\/Vendors\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NIMEducationDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NIMEducationDemo\/NIMEducationDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/g.hz.netease.com:22222\/nim_ios\/NIMAVChatVendors.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5DA897B2CF6787DA5F7A57996317E5269E088741"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/g.hz.netease.com\/nim_ios\/NIM.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FFEF9F5BFA6676D6938C6FA00316030C6F649FF4"
+    }
+  ]
+}
