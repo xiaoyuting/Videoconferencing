@@ -81,7 +81,7 @@ NTES_USE_CLEAR_BAR
     [loginBtn setBackgroundImage:[UIImage imageNamed:@"btn_round_rect_pressed"] forState:UIControlStateHighlighted];
     [loginBtn addTarget:self action:@selector(onTouchLogin:) forControlEvents:UIControlEventTouchUpInside];
     UILongPressGestureRecognizer *longPressOnLoginBtn = [[UILongPressGestureRecognizer alloc] initWithTarget:self action:@selector(prepareShowLog:)];
-    [loginBtn addGestureRecognizer:longPressOnLoginBtn];
+    //[loginBtn addGestureRecognizer:longPressOnLoginBtn];
     
     [loginBtn sizeToFit];
     self.navigationItem.rightBarButtonItem = [[UIBarButtonItem alloc] initWithCustomView:loginBtn];

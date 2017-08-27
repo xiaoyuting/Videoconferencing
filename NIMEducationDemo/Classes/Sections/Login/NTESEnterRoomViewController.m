@@ -111,7 +111,7 @@ NTES_USE_CLEAR_BAR
 
 
 - (void)configNav{
-    self.navigationItem.title = @"云信在线教育Demo";
+    self.navigationItem.title = @"视屏会议";
     self.navigationController.navigationBar.titleTextAttributes =@{NSFontAttributeName:[UIFont boldSystemFontOfSize:17],
                                                                    NSForegroundColorAttributeName:[UIColor whiteColor]};
     UIButton *logoutBtn = [UIButton buttonWithType:UIButtonTypeCustom];
